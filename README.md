@@ -41,3 +41,9 @@ There are a few serializer parameters to seraialize all sorts of serializers. Ch
  - Object maps / Hash maps
  - Union types
  - Polymorphic arrays
+ 
+### Commands
+
+* `yarn build` - builds new files.
+* `yarn watch` - Watches for changes and builds on change.
+* `npm test` - Runs tests
